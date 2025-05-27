@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Lorraine2507/Lorraine2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soy una chica apasionada por la tecnología y la comunicación digital, preparada para iniciar mi carrera profesional en el mundo tech. Me especializo en el desarrollo de aplicaciones web y la creación de contenido digital, combinando habilidades técnicas con creatividad y comunicación.
 
-Here are some ideas to get you started:
+💻 He trabajado con WordPress creando y gestionando sitios web, así como personalizando funcionalidades a través de PHP y modificando plugins según necesidades específicas. También tengo experiencia con HTML, CSS, Tailwind CSS y Sass, lo que me permite realizar ajustes visuales y estructurales con precisión y estilo. Además, he desarrollado con JavaScript, React + Vite y he explorado el backend con Spring, ampliando así mis habilidades tanto en el frontend como en el backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tecnologías y habilidades destacadas:
+
+
+- HTML / CSS / Tailwind CSS / Sass
+
+- JavaScript
+
+- React + Vite
+
+- WordPress
+
+- PHP
+
+- Spring (Java)
+
+- SEO básico
+
+- Redacción y edición de contenidos
+
+- Comunicación digital
+### Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lorraine2507&theme=dracula)](https://git.io/streak-stats)
