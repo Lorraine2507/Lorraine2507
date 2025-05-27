@@ -25,3 +25,4 @@
 - Comunicación digital
 ### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lorraine2507&theme=dracula)](https://git.io/streak-stats)
+[![Lorraine's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lorraine2507&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
